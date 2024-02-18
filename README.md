@@ -1,7 +1,13 @@
-👋 Hi, I'm @NayyarAbbasi07! Here's a simplified version for a computer science student:
-👀 I'm into computer stuff like coding, algorithms, and tech innovations.
-🌱 Right now, I'm learning new coding skills and cool tricks to solve problems better.
-💻 I'd love to team up on projects involving coding, websites, or anything tech-related.
-📫 You can reach me on GitHub or shoot me an email.
+👋 Hey there, I'm @NayyarAbbasi07!
+
+👀 I'm all about coding, algorithms, and tech innovations.
+
+🌱 Currently, I'm leveling up my coding skills and picking up cool tricks to solve problems more effectively.
+
+💻 I'm open to collaborating on projects related to coding, websites, or anything tech-related.
+
+📫 Feel free to reach out to me on GitHub or via email.
+
 😄 Pronouns: He/Him
-⚡ Fun fact: I enjoy coding challenges and competitions to push my skills further.
+
+⚡ Fun fact: I thrive on coding challenges and competitions to sharpen my skills even more.
